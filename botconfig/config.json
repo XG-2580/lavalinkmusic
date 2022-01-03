@@ -1,0 +1,28 @@
+{
+   "token": "",
+   "prefix": "",
+   "ownerIDS": [
+      ""
+   ],
+   
+   "status": {
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: https://discord.gg/uYRDDx7yFn",
+      "text2": "",
+      "type": "",
+      "url": ""
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "",
+            "port": 80,
+            "password": ""
+         }
+      ]
+   },
+
+   "spotify": {
+      "clientID": "",
+      "clientSecret": ""
+   }
+}
